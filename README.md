@@ -111,6 +111,18 @@ Three original UI/UX projects: a minimalist mobile unit converter, a dark-mode s
 
 ---
 
+---
+
+## Connect
+
+<p>
+  <a href="mailto:jareksawchenko@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://svgroup.site"><img src="https://img.shields.io/badge/svgroup.site-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://legalline.pl"><img src="https://img.shields.io/badge/legalline.pl-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+</p>
+
 ## GitHub stats
 
 <p align="center">
