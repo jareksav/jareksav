@@ -78,6 +78,7 @@ A full-featured quiz platform built from scratch. Users can create, publish and 
 - REST API endpoints (Django REST Framework)
 - Role-based visibility: published vs. draft, admin vs. user
 - Production-ready config via `python-dotenv`
+- SQLite (dev) / PostgreSQL (prod) database support
 
 <p align="center">
   <a href="https://github.com/JaroslawSawczenko/Lumen">
