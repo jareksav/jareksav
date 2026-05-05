@@ -90,7 +90,7 @@ A complete company website delivered end-to-end - designed, developed and deploy
 ### [LegalLine](https://legalline.pl)
 > Legacy → Modern stack migration · live at legalline.pl
 
-Took an outdated legacy website for a legal services firm and rebuilt it from scratch with modern technologies. The result is a significantly faster, more maintainable and visually upgraded platform - a full architectural overhaul, not just a restyle.
+Took an outdated legacy website for a legal services firm and rebuilt it from scratch with modern technologies. The result is a significantly faster, more maintainable and visually upgraded platform - a full architectural overhaul, not just a restyle. Performance, SEO and maintainability all significantly improved.
 
 ---
 
