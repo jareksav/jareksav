@@ -23,6 +23,8 @@
     <img src="https://img.shields.io/badge/also%20on-JaroslawSawczenko-161b22?style=flat-square&logo=github&logoColor=white&labelColor=161b22&color=30363d" />
   </a>
   &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20work-238636?style=flat-square&logo=github&logoColor=white" />
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=jareksav&style=flat-square&color=1f6feb&label=profile+views" />
 </p>
 
