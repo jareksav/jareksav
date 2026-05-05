@@ -103,7 +103,7 @@ Took an outdated legacy website for a legal services firm and rebuilt it from sc
 ### [Figma Design Portfolio](https://github.com/JaroslawSawczenko/FIGMA_project)
 > UI/UX · Figma · Product Design
 
-Three original UI/UX projects: a minimalist mobile unit converter, a dark-mode streetwear e-commerce interface with conversion-optimised UX, and a digital matte painting in the style of a streaming platform banner. On my second account [@JaroslawSawczenko](https://github.com/JaroslawSawczenko).
+Three original UI/UX projects: a minimalist mobile unit converter, a dark-mode streetwear e-commerce interface with conversion-optimised UX, and a digital matte painting in the style of a streaming platform banner. Each project covers full UX flow — from wireframe logic to visual system. On my second account [@JaroslawSawczenko](https://github.com/JaroslawSawczenko).
 
 <p align="center">
   <a href="https://github.com/JaroslawSawczenko/FIGMA_project">
