@@ -30,7 +30,7 @@
 
 ## About me
 
-Programmer with formal education in software development. I build full-stack web applications - from REST APIs and backend logic through to modern, responsive frontends. I work across the Python/Django ecosystem and the JavaScript/TypeScript stack, and I have real-world experience taking projects all the way from Figma design to production deployment.
+Programmer with formal education in software development. I build full-stack web applications - from REST APIs and backend logic through to modern, responsive frontends. I work across the Python/Django ecosystem and the JavaScript/TypeScript stack, and I have real-world experience taking projects all the way from Figma design to production deployment. I care about clean code, solid architecture and shipping products that actually work.
 
 ---
 
