@@ -83,7 +83,7 @@ A full-featured quiz platform built from scratch. Users can create, publish and 
 ### [SV Group](https://svgroup.site)
 > Full production website · live at svgroup.site
 
-A complete company website delivered end-to-end - designed, developed and deployed entirely by me.
+A complete company website for a construction company, delivered end-to-end - designed, developed and deployed entirely by me. Responsive, fast and production-ready.
 
 ---
 
