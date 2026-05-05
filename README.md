@@ -130,7 +130,7 @@ Three original UI/UX projects: a minimalist mobile unit converter, a dark-mode s
 
 ## WakaTime stats
 
-> *Coming soon — coding time tracker in progress*
+> *Setting up — weekly coding stats coming soon*
 
 ---
 
