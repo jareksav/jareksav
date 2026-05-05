@@ -22,6 +22,8 @@
   <a href="https://github.com/JaroslawSawczenko">
     <img src="https://img.shields.io/badge/also%20on-JaroslawSawczenko-161b22?style=flat-square&logo=github&logoColor=white&labelColor=161b22&color=30363d" />
   </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=jareksav&style=flat-square&color=1f6feb&label=profile+views" />
 </p>
 
 ---
@@ -53,7 +55,7 @@ Programmer with formal education in software development. I build full-stack web
 
 ## Projects
 
-### [Lumen](https://github.com/JaroslawSawczenko/Lumen)
+### Lumen
 > Django · Django REST Framework · PostgreSQL · Python
 
 A full-featured quiz platform built from scratch. Users can create, publish and play quizzes with time-limited questions, image support and a live scoring system. The backend exposes a REST API alongside a server-rendered frontend with full authentication, session-based score tracking and a superuser content-management flow. Every layer - models, serializers, views, templates - written by me.
@@ -65,6 +67,12 @@ A full-featured quiz platform built from scratch. Users can create, publish and 
 - REST API endpoints (Django REST Framework)
 - Role-based visibility: published vs. draft, admin vs. user
 - Production-ready config via `python-dotenv`
+
+<p align="center">
+  <a href="https://github.com/JaroslawSawczenko/Lumen">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaroslawSawczenko&repo=Lumen&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
+  </a>
+</p>
 
 ---
 
@@ -87,9 +95,19 @@ Took an outdated legacy website for a legal services firm and rebuilt it from sc
 
 Three original UI/UX projects: a minimalist mobile unit converter, a dark-mode streetwear e-commerce interface with conversion-optimised UX, and a digital matte painting in the style of a streaming platform banner. On my second account [@JaroslawSawczenko](https://github.com/JaroslawSawczenko).
 
+<p align="center">
+  <a href="https://github.com/JaroslawSawczenko/FIGMA_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaroslawSawczenko&repo=FIGMA_project&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
+  </a>
+</p>
+
 ---
 
 ## GitHub stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jareksav&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jareksav&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" height="160" />
@@ -98,6 +116,10 @@ Three original UI/UX projects: a minimalist mobile unit converter, a dark-mode s
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jareksav&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jareksav&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&hide_border=true&area=true&area_color=1f6feb" width="100%" />
 </p>
 
 <p align="center">
