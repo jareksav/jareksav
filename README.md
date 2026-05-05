@@ -80,6 +80,17 @@ A full-featured quiz platform built from scratch. Users can create, publish and 
 - Production-ready config via `python-dotenv`
 - SQLite (dev) / PostgreSQL (prod) database support
 
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/lumen-quizzes.png" alt="Lumen — quiz list" /></td>
+    <td width="50%"><img src="./assets/lumen-admin.png" alt="Lumen — admin panel" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Public quiz catalogue</sub></td>
+    <td align="center"><sub>Django admin — content management</sub></td>
+  </tr>
+</table>
+
 <p align="center">
   <a href="https://github.com/JaroslawSawczenko/Lumen">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaroslawSawczenko&repo=Lumen&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
@@ -93,12 +104,27 @@ A full-featured quiz platform built from scratch. Users can create, publish and 
 
 A complete company website for a construction company, delivered end-to-end - designed, developed and deployed entirely by me. Responsive, fast and production-ready.
 
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/svgroup-hero.png" alt="SV Group — landing" /></td>
+    <td width="50%"><img src="./assets/svgroup-calculator.png" alt="SV Group — interactive cost calculator" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Hero section</sub></td>
+    <td align="center"><sub>Interactive pricing calculator</sub></td>
+  </tr>
+</table>
+
 ---
 
 ### [LegalLine](https://legalline.pl)
 > Legacy → Modern stack migration · live at legalline.pl
 
 Took an outdated legacy website for a legal services firm and rebuilt it from scratch with modern technologies. The result is a significantly faster, more maintainable and visually upgraded platform - a full architectural overhaul, not just a restyle. Performance, SEO and maintainability all significantly improved.
+
+<p align="center">
+  <img src="./assets/legalline.png" alt="LegalLine — homepage" width="80%" />
+</p>
 
 ---
 
@@ -115,8 +141,6 @@ Three original UI/UX projects: a minimalist mobile unit converter, a dark-mode s
 
 ---
 
----
-
 ## Connect
 
 <p>
@@ -126,11 +150,6 @@ Three original UI/UX projects: a minimalist mobile unit converter, a dark-mode s
   &nbsp;
   <a href="https://legalline.pl"><img src="https://img.shields.io/badge/legalline.pl-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
-
-
-## WakaTime stats
-
-> *Setting up — weekly coding stats coming soon*
 
 ---
 
@@ -159,6 +178,12 @@ Three original UI/UX projects: a minimalist mobile unit converter, a dark-mode s
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jareksav/jareksav/output/github-contribution-grid-snake.svg" />
     <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/jareksav/jareksav/output/github-contribution-grid-snake-dark.svg" />
   </picture>
+</p>
+
+## Detailed metrics
+
+<p align="center">
+  <img src="./metrics.svg" alt="Metrics" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
