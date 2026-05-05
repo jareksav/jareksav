@@ -82,12 +82,12 @@ A full-featured quiz platform built from scratch. Users can create, publish and 
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/lumen-quizzes.png" alt="Lumen — quiz list" /></td>
-    <td width="50%"><img src="./assets/lumen-admin.png" alt="Lumen — admin panel" /></td>
+    <td width="50%"><img src="./assets/lumen-quizzes.png" alt="Lumen - quiz list" /></td>
+    <td width="50%"><img src="./assets/lumen-admin.png" alt="Lumen - admin panel" /></td>
   </tr>
   <tr>
     <td align="center"><sub>Public quiz catalogue</sub></td>
-    <td align="center"><sub>Django admin — content management</sub></td>
+    <td align="center"><sub>Django admin - content management</sub></td>
   </tr>
 </table>
 
@@ -106,8 +106,8 @@ A complete company website for a construction company, delivered end-to-end - de
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/svgroup-hero.png" alt="SV Group — landing" /></td>
-    <td width="50%"><img src="./assets/svgroup-calculator.png" alt="SV Group — interactive cost calculator" /></td>
+    <td width="50%"><img src="./assets/svgroup-hero.png" alt="SV Group - landing" /></td>
+    <td width="50%"><img src="./assets/svgroup-calculator.png" alt="SV Group - interactive cost calculator" /></td>
   </tr>
   <tr>
     <td align="center"><sub>Hero section</sub></td>
@@ -123,7 +123,7 @@ A complete company website for a construction company, delivered end-to-end - de
 Took an outdated legacy website for a legal services firm and rebuilt it from scratch with modern technologies. The result is a significantly faster, more maintainable and visually upgraded platform - a full architectural overhaul, not just a restyle. Performance, SEO and maintainability all significantly improved.
 
 <p align="center">
-  <img src="./assets/legalline.png" alt="LegalLine — homepage" width="80%" />
+  <img src="./assets/legalline.png" alt="LegalLine - homepage" width="80%" />
 </p>
 
 ---
@@ -131,7 +131,7 @@ Took an outdated legacy website for a legal services firm and rebuilt it from sc
 ### [Figma Design Portfolio](https://github.com/JaroslawSawczenko/FIGMA_project)
 > UI/UX · Figma · Product Design
 
-Three original UI/UX projects: a minimalist mobile unit converter, a dark-mode streetwear e-commerce interface with conversion-optimised UX, and a digital matte painting in the style of a streaming platform banner. Each project covers full UX flow — from wireframe logic to visual system. On my second account [@JaroslawSawczenko](https://github.com/JaroslawSawczenko).
+Three original UI/UX projects: a minimalist mobile unit converter, a dark-mode streetwear e-commerce interface with conversion-optimised UX, and a digital matte painting in the style of a streaming platform banner. Each project covers full UX flow - from wireframe logic to visual system. On my second account [@JaroslawSawczenko](https://github.com/JaroslawSawczenko).
 
 <p align="center">
   <a href="https://github.com/JaroslawSawczenko/FIGMA_project">
