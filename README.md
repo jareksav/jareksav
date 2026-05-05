@@ -30,6 +30,10 @@
 
 ---
 
+## Currently building
+
+![Lumen v2](https://img.shields.io/badge/Lumen_v2-in_progress-1f6feb?style=flat-square&logo=github&logoColor=white)
+
 ## About me
 
 Programmer with formal education in software development. I build full-stack web applications - from REST APIs and backend logic through to modern, responsive frontends. I work across the Python/Django ecosystem and the JavaScript/TypeScript stack, and I have real-world experience taking projects all the way from Figma design to production deployment. I care about clean code, solid architecture and shipping products that actually work.
