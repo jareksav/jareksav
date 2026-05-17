@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Python+%2F+Django+Backend+Developer;React+%2F+Next.js+Frontend;REST+APIs+%E2%86%92+Production+Deployments;From+Figma+design+to+working+product;Building+things+that+actually+ship" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Backend+Developer;Frontend+Developer;SEO+%26+Performance+Optimization;From+design+to+working+product;Building+things+that+actually+ship" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:jareksawchenko@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jareksawchenko%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff&labelColor=161b22&color=1f6feb" />
+  <a href="mailto:jareksavchenko@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jareksavchenko%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff&labelColor=161b22&color=1f6feb" />
   </a>
   &nbsp;
   <a href="https://svgroup.site">
@@ -34,37 +34,62 @@
 
 ![Lumen v2](https://img.shields.io/badge/Lumen_v2-in_progress-1f6feb?style=flat-square&logo=github&logoColor=white)
 
-## About me
-
-Programmer with formal education in software development. I build full-stack web applications - from REST APIs and backend logic through to modern, responsive frontends. I work across the Python/Django ecosystem and the JavaScript/TypeScript stack, and I have real-world experience taking projects all the way from Figma design to production deployment. I care about clean code, solid architecture and shipping products that actually work.
-
----
-
 ## Tech stack
+
+**Backend**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+**Tools & Workflow**
+
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
 ---
 
 ## Projects
+
+### [SV Group](https://svgroup.site)
+> Full production website · live at svgroup.site
+
+A complete company website for a construction company, delivered end-to-end - designed, developed and deployed entirely by me. Responsive, fast and production-ready.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/svgroup-hero.png" alt="SV Group - landing" /></td>
+    <td width="50%"><img src="./assets/svgroup-calculator.png" alt="SV Group - interactive cost calculator" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Hero section</sub></td>
+    <td align="center"><sub>Interactive pricing calculator</sub></td>
+  </tr>
+</table>
+
+---
 
 ### Lumen
 > Django · Django REST Framework · PostgreSQL · Python
@@ -99,24 +124,6 @@ A full-featured quiz platform built from scratch. Users can create, publish and 
 
 ---
 
-### [SV Group](https://svgroup.site)
-> Full production website · live at svgroup.site
-
-A complete company website for a construction company, delivered end-to-end - designed, developed and deployed entirely by me. Responsive, fast and production-ready.
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/svgroup-hero.png" alt="SV Group - landing" /></td>
-    <td width="50%"><img src="./assets/svgroup-calculator.png" alt="SV Group - interactive cost calculator" /></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Hero section</sub></td>
-    <td align="center"><sub>Interactive pricing calculator</sub></td>
-  </tr>
-</table>
-
----
-
 ### [LegalLine](https://legalline.pl)
 > Legacy → Modern stack migration · live at legalline.pl
 
@@ -144,7 +151,7 @@ Three original UI/UX projects: a minimalist mobile unit converter, a dark-mode s
 ## Connect
 
 <p>
-  <a href="mailto:jareksawchenko@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:jareksavchenko@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   &nbsp;
   <a href="https://svgroup.site"><img src="https://img.shields.io/badge/svgroup.site-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
   &nbsp;
