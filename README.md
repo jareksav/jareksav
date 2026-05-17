@@ -30,9 +30,17 @@
 
 ---
 
-## Currently building
+## What I do
 
-![Lumen v2](https://img.shields.io/badge/Lumen_v2-in_progress-1f6feb?style=flat-square&logo=github&logoColor=white)
+<table>
+  <tr>
+    <td width="33%" align="center"><b>⚙️ Backend</b><br /><sub>REST APIs, business logic, databases and auth - built to run in production.</sub></td>
+    <td width="33%" align="center"><b>🎨 Frontend</b><br /><sub>Responsive, fast interfaces - from design handoff to a working product.</sub></td>
+    <td width="33%" align="center"><b>📈 SEO</b><br /><sub>Performance and search optimisation that shows up in real metrics.</sub></td>
+  </tr>
+</table>
+
+---
 
 ## Tech stack
 
@@ -42,6 +50,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
@@ -89,36 +98,9 @@ A complete company website for a construction company, delivered end-to-end - de
   </tr>
 </table>
 
----
-
-### Lumen
-> Django · Django REST Framework · PostgreSQL · Python
-
-A full-featured quiz platform built from scratch. Users can create, publish and play quizzes with time-limited questions, image support and a live scoring system. The backend exposes a REST API alongside a server-rendered frontend with full authentication, session-based score tracking and a superuser content-management flow. Every layer - models, serializers, views, templates - written by me.
-
-**Key features:**
-- Quiz & question CRUD with image uploads
-- Per-question time limits and answer ordering
-- Session-based live scoring during gameplay
-- REST API endpoints (Django REST Framework)
-- Role-based visibility: published vs. draft, admin vs. user
-- Production-ready config via `python-dotenv`
-- SQLite (dev) / PostgreSQL (prod) database support
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/lumen-quizzes.png" alt="Lumen - quiz list" /></td>
-    <td width="50%"><img src="./assets/lumen-admin.png" alt="Lumen - admin panel" /></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Public quiz catalogue</sub></td>
-    <td align="center"><sub>Django admin - content management</sub></td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/JaroslawSawczenko/Lumen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaroslawSawczenko&repo=Lumen&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
+<p>
+  <a href="https://pagespeed.web.dev/analysis?url=https://svgroup.site">
+    <img src="https://img.shields.io/badge/Lighthouse-view_live_report-0d1117?style=flat-square&logo=lighthouse&logoColor=58a6ff&labelColor=161b22&color=1f6feb" />
   </a>
 </p>
 
@@ -131,6 +113,12 @@ Took an outdated legacy website for a legal services firm and rebuilt it from sc
 
 <p align="center">
   <img src="./assets/legalline.png" alt="LegalLine - homepage" width="80%" />
+</p>
+
+<p>
+  <a href="https://pagespeed.web.dev/analysis?url=https://legalline.pl">
+    <img src="https://img.shields.io/badge/Lighthouse-view_live_report-0d1117?style=flat-square&logo=lighthouse&logoColor=58a6ff&labelColor=161b22&color=1f6feb" />
+  </a>
 </p>
 
 ---
