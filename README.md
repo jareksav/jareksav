@@ -80,48 +80,6 @@
 
 ---
 
-## Projects
-
-### [SV Group](https://svgroup.site)
-> Full production website · live at svgroup.site
-
-A complete company website for a construction company, delivered end-to-end - designed, developed and deployed entirely by me. Responsive, fast and production-ready.
-
-<table>
-  <tr>
-    <td width="50%"><img src="./assets/svgroup-hero.png" alt="SV Group - landing" /></td>
-    <td width="50%"><img src="./assets/svgroup-calculator.png" alt="SV Group - interactive cost calculator" /></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Hero section</sub></td>
-    <td align="center"><sub>Interactive pricing calculator</sub></td>
-  </tr>
-</table>
-
-<p>
-  <a href="https://pagespeed.web.dev/analysis?url=https://svgroup.site">
-    <img src="https://img.shields.io/badge/Lighthouse-view_live_report-0d1117?style=flat-square&logo=lighthouse&logoColor=58a6ff&labelColor=161b22&color=1f6feb" />
-  </a>
-</p>
-
----
-
-### [LegalLine](https://legalline.pl)
-> Legacy → Modern stack migration · live at legalline.pl
-
-Took an outdated legacy website for a legal services firm and rebuilt it from scratch with modern technologies. The result is a significantly faster, more maintainable and visually upgraded platform - a full architectural overhaul, not just a restyle. Performance, SEO and maintainability all significantly improved.
-
-<p align="center">
-  <img src="./assets/legalline.png" alt="LegalLine - homepage" width="80%" />
-</p>
-
-<p>
-  <a href="https://pagespeed.web.dev/analysis?url=https://legalline.pl">
-    <img src="https://img.shields.io/badge/Lighthouse-view_live_report-0d1117?style=flat-square&logo=lighthouse&logoColor=58a6ff&labelColor=161b22&color=1f6feb" />
-  </a>
-</p>
-
----
 
 ## Connect
 
