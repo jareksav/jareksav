@@ -44,42 +44,123 @@
 
 ## Tech stack
 
-**Backend**
+**Backend & APIs**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+**AI & Data**
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_(Anthropic)-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
 
 **Frontend**
 
 <p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Preact-673AB8?style=flat-square&logo=preact&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </p>
 
-**Tools & Workflow**
+**DevOps & Services**
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+**Quality & Design**
+
+<p>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+</p>
+
+<sub>Also working with: <b>C# / Unity</b> (multiplayer, Netcode for GameObjects) · <b>Telegram &amp; Discord bots</b> (aiogram, discord.py) · <b>Electron</b> · <b>Bun</b></sub>
+
+---
+
+## Projects
+
+### [SV Group](https://svgroup.site)
+> Full production website · live at svgroup.site
+
+A complete company website for a construction company, delivered end-to-end - designed, developed and deployed entirely by me. Responsive, fast and production-ready.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/svgroup-hero.png" alt="SV Group - landing" /></td>
+    <td width="50%"><img src="./assets/svgroup-calculator.png" alt="SV Group - interactive cost calculator" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Hero section</sub></td>
+    <td align="center"><sub>Interactive pricing calculator</sub></td>
+  </tr>
+</table>
+
+<p>
+  <a href="https://pagespeed.web.dev/analysis?url=https://svgroup.site">
+    <img src="https://img.shields.io/badge/Lighthouse-view_live_report-0d1117?style=flat-square&logo=lighthouse&logoColor=58a6ff&labelColor=161b22&color=1f6feb" />
+  </a>
 </p>
 
 ---
 
+### [LegalLine](https://legalline.pl)
+> Legacy → Modern stack migration · live at legalline.pl
+
+Took an outdated legacy website for a legal services firm and rebuilt it from scratch with modern technologies. The result is a significantly faster, more maintainable and visually upgraded platform - a full architectural overhaul, not just a restyle. Performance, SEO and maintainability all significantly improved.
+
+<p align="center">
+  <img src="./assets/legalline.png" alt="LegalLine - homepage" width="80%" />
+</p>
+
+<p>
+  <a href="https://pagespeed.web.dev/analysis?url=https://legalline.pl">
+    <img src="https://img.shields.io/badge/Lighthouse-view_live_report-0d1117?style=flat-square&logo=lighthouse&logoColor=58a6ff&labelColor=161b22&color=1f6feb" />
+  </a>
+</p>
+
+---
+
+### [Figma Design Portfolio](https://github.com/JaroslawSawczenko/FIGMA_project)
+> UI/UX · Figma · Product Design
+
+Three original UI/UX projects: a minimalist mobile unit converter, a dark-mode streetwear e-commerce interface with conversion-optimised UX, and a digital matte painting in the style of a streaming platform banner. Each project covers full UX flow - from wireframe logic to visual system. On my second account [@JaroslawSawczenko](https://github.com/JaroslawSawczenko).
+
+<p align="center">
+  <a href="https://github.com/JaroslawSawczenko/FIGMA_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JaroslawSawczenko&repo=FIGMA_project&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
+  </a>
+</p>
+
+---
 
 ## Connect
 
