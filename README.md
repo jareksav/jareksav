@@ -11,10 +11,6 @@
 <p align="center">
   <a href="mailto:jareksavchenko@gmail.com"><img src="https://img.shields.io/badge/Email-141519?style=flat-square&logo=gmail&logoColor=f4f2ed" alt="Email" /></a>
   &nbsp;
-  <a href="https://svgroup.site"><img src="https://img.shields.io/badge/svgroup.site-141519?style=flat-square&logo=vercel&logoColor=f4f2ed" alt="svgroup.site" /></a>
-  &nbsp;
-  <a href="https://legalline.pl"><img src="https://img.shields.io/badge/legalline.pl-141519?style=flat-square&logo=vercel&logoColor=f4f2ed" alt="legalline.pl" /></a>
-  &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20work-b9674a?style=flat-square&logoColor=f4f2ed" alt="Open to work" />
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=jareksav&style=flat-square&color=b9674a&label=views" alt="views" />
