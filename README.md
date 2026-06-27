@@ -1,154 +1,98 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Yaroslav%20Savchenko&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer&descSize=20&descAlignY=58&descColor=8b949e" width="100%" />
+<p align="center">
+  <img src="./assets/header.png" alt="Yaroslav Savchenko - Full-Stack Engineer" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Backend+Developer;Frontend+Developer;SEO+%26+Performance+Optimization;From+design+to+working+product;Building+things+that+actually+ship" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Archivo&weight=600&size=18&pause=1400&color=B07A7A&center=true&vCenter=true&width=560&lines=Production+web+apps+%26+AI+tools;From+design+to+deploy;Performance-obsessed;I+build+things+that+actually+ship" alt="" />
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:jareksavchenko@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jareksavchenko%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=58a6ff&labelColor=161b22&color=1f6feb" />
-  </a>
+  <a href="mailto:jareksavchenko@gmail.com"><img src="https://img.shields.io/badge/Email-141519?style=flat-square&logo=gmail&logoColor=b07a7a" alt="Email" /></a>
   &nbsp;
-  <a href="https://svgroup.site">
-    <img src="https://img.shields.io/badge/svgroup.site-live-0d1117?style=flat-square&logo=vercel&logoColor=58a6ff&labelColor=161b22&color=238636" />
-  </a>
+  <a href="https://svgroup.site"><img src="https://img.shields.io/badge/svgroup.site-141519?style=flat-square&logo=vercel&logoColor=b07a7a" alt="svgroup.site" /></a>
   &nbsp;
-  <a href="https://legalline.pl">
-    <img src="https://img.shields.io/badge/legalline.pl-live-0d1117?style=flat-square&logo=vercel&logoColor=58a6ff&labelColor=161b22&color=238636" />
-  </a>
+  <a href="https://legalline.pl"><img src="https://img.shields.io/badge/legalline.pl-141519?style=flat-square&logo=vercel&logoColor=b07a7a" alt="legalline.pl" /></a>
   &nbsp;
-  <a href="https://github.com/JaroslawSawczenko">
-    <img src="https://img.shields.io/badge/also%20on-JaroslawSawczenko-161b22?style=flat-square&logo=github&logoColor=white&labelColor=161b22&color=30363d" />
-  </a>
+  <img src="https://img.shields.io/badge/Open%20to%20work-8a5a5a?style=flat-square&logoColor=f4f2ed" alt="Open to work" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20work-238636?style=flat-square&logo=github&logoColor=white" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=jareksav&style=flat-square&color=1f6feb&label=profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=jareksav&style=flat-square&color=8a5a5a&label=views" alt="views" />
 </p>
+
+<br />
+
+<p align="center"><sub>Full-stack engineer in Gdansk. I design, build and ship production web apps and AI-powered tools - end to end.</sub></p>
 
 ---
 
-## What I do
+### What I do
 
 <table>
   <tr>
-    <td width="33%" align="center"><b>⚙️ Backend</b><br /><sub>REST APIs, business logic, databases and auth - built to run in production.</sub></td>
-    <td width="33%" align="center"><b>🎨 Frontend</b><br /><sub>Responsive, fast interfaces - from design handoff to a working product.</sub></td>
-    <td width="33%" align="center"><b>📈 SEO</b><br /><sub>Performance and search optimisation that shows up in real metrics.</sub></td>
+    <td width="33%" align="center"><b>Backend &amp; AI</b><br /><sub>REST APIs, async services, auth, databases and AI pipelines - built to run in production.</sub></td>
+    <td width="33%" align="center"><b>Frontend</b><br /><sub>Fast, responsive interfaces - from design handoff to a shipped product.</sub></td>
+    <td width="33%" align="center"><b>Performance &amp; SEO</b><br /><sub>Lighthouse-grade speed and search optimisation that shows up in real metrics.</sub></td>
   </tr>
 </table>
 
 ---
 
-## Tech stack
-
-**Backend & APIs**
+### Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" />
+  <sub><b>Backend</b></sub><br />
+  <img src="https://img.shields.io/badge/Python-141519?style=flat-square&logo=python&logoColor=b07a7a" />
+  <img src="https://img.shields.io/badge/FastAPI-141519?style=flat-square&logo=fastapi&logoColor=b07a7a" />
+  <img src="https://img.shields.io/badge/Django-141519?style=flat-square&logo=django&logoColor=b07a7a" />
+  <img src="https://img.shields.io/badge/DRF-141519?style=flat-square&logo=django&logoColor=b07a7a" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-141519?style=flat-square&logo=sqlalchemy&logoColor=b07a7a" />
+  <img src="https://img.shields.io/badge/PHP-141519?style=flat-square&logo=php&logoColor=b07a7a" />
 </p>
-
-**AI & Data**
 
 <p>
-  <img src="https://img.shields.io/badge/Claude_(Anthropic)-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <sub><b>Frontend</b></sub><br />
+  <img src="https://img.shields.io/badge/TypeScript-141519?style=flat-square&logo=typescript&logoColor=b07a7a" />
+  <img src="https://img.shields.io/badge/React-141519?style=flat-square&logo=react&logoColor=b07a7a" />
+  <img src="https://img.shields.io/badge/Next.js-141519?style=flat-square&logo=nextdotjs&logoColor=b07a7a" />
+  <img src="https://img.shields.io/badge/Astro-141519?style=flat-square&logo=astro&logoColor=b07a7a" />
+  <img src="https://img.shields.io/badge/Tailwind-141519?style=flat-square&logo=tailwindcss&logoColor=b07a7a" />
 </p>
-
-**Frontend**
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Preact-673AB8?style=flat-square&logo=preact&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <sub><b>Data &amp; AI</b></sub><br />
+  <img src="https://img.shields.io/badge/PostgreSQL-141519?style=flat-square&logo=postgresql&logoColor=b07a7a" />
+  <img src="https://img.shields.io/badge/Redis-141519?style=flat-square&logo=redis&logoColor=b07a7a" />
+  <img src="https://img.shields.io/badge/Claude-141519?style=flat-square&logo=anthropic&logoColor=b07a7a" />
+  <img src="https://img.shields.io/badge/OpenAI-141519?style=flat-square&logo=openai&logoColor=b07a7a" />
 </p>
-
-**DevOps & Services**
 
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <sub><b>DevOps</b></sub><br />
+  <img src="https://img.shields.io/badge/Docker-141519?style=flat-square&logo=docker&logoColor=b07a7a" />
+  <img src="https://img.shields.io/badge/Cloudflare-141519?style=flat-square&logo=cloudflare&logoColor=b07a7a" />
+  <img src="https://img.shields.io/badge/Vercel-141519?style=flat-square&logo=vercel&logoColor=b07a7a" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-141519?style=flat-square&logo=githubactions&logoColor=b07a7a" />
+  <img src="https://img.shields.io/badge/Linux-141519?style=flat-square&logo=linux&logoColor=b07a7a" />
 </p>
 
-**Quality & Design**
-
-<p>
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-</p>
-
-<sub>Also working with: <b>C# / Unity</b> (multiplayer, Netcode for GameObjects) · <b>Telegram &amp; Discord bots</b> (aiogram, discord.py) · <b>Electron</b> · <b>Bun</b></sub>
+<sub>Also: C# / Unity (multiplayer) · Telegram &amp; Discord bots · Electron · Bun · Figma</sub>
 
 ---
 
-## Connect
-
-<p>
-  <a href="mailto:jareksavchenko@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://svgroup.site"><img src="https://img.shields.io/badge/svgroup.site-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://legalline.pl"><img src="https://img.shields.io/badge/legalline.pl-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-</p>
-
----
-
-## GitHub stats
+### GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jareksav&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jareksav&show_icons=true&hide_border=true&bg_color=0e0f11&title_color=b07a7a&icon_color=8a5a5a&text_color=cbc7bf" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jareksav&layout=compact&hide_border=true&bg_color=0e0f11&title_color=b07a7a&text_color=cbc7bf" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jareksav&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jareksav&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jareksav&hide_border=true&background=0e0f11&stroke=1d1f24&ring=8a5a5a&fire=b07a7a&currStreakNum=f4f2ed&sideNums=cbc7bf&currStreakLabel=8a5a5a&sideLabels=8c8a85&dates=5b5955" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jareksav&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jareksav&bg_color=0e0f11&color=f4f2ed&line=8a5a5a&point=b07a7a&area=true&area_color=141519&hide_border=true" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jareksav&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&hide_border=true&area=true&area_color=1f6feb" width="100%" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jareksav/jareksav/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jareksav/jareksav/output/github-contribution-grid-snake.svg" />
-    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/jareksav/jareksav/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
-
-## Detailed metrics
-
-<p align="center">
-  <img src="./metrics.svg" alt="Metrics" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" />
+<p align="center"><sub>· · ·</sub></p>
