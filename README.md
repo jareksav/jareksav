@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:jareksavchenko@gmail.com"><img src="https://img.shields.io/badge/Email-141519?style=flat-square&logo=gmail&logoColor=f4f2ed" alt="Email" /></a>
+  <a href="mailto:jareksavchenko@gmail.com"><img src="https://img.shields.io/badge/Email-141519?style=flat-square&logo=gmail&logoColor=ef9b5e" alt="Email" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20work-b9674a?style=flat-square&logoColor=f4f2ed" alt="Open to work" />
+  <img src="https://img.shields.io/badge/Open%20to%20work-b9674a?style=flat-square&logoColor=ef9b5e" alt="Open to work" />
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=jareksav&style=flat-square&color=b9674a&label=views" alt="views" />
 </p>
@@ -38,38 +38,38 @@
 
 <p>
   <sub><b>Backend</b></sub><br />
-  <img src="https://img.shields.io/badge/Python-141519?style=flat-square&logo=python&logoColor=f4f2ed" />
-  <img src="https://img.shields.io/badge/FastAPI-141519?style=flat-square&logo=fastapi&logoColor=f4f2ed" />
-  <img src="https://img.shields.io/badge/Django-141519?style=flat-square&logo=django&logoColor=f4f2ed" />
-  <img src="https://img.shields.io/badge/DRF-141519?style=flat-square&logo=django&logoColor=f4f2ed" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-141519?style=flat-square&logo=sqlalchemy&logoColor=f4f2ed" />
-  <img src="https://img.shields.io/badge/PHP-141519?style=flat-square&logo=php&logoColor=f4f2ed" />
+  <img src="https://img.shields.io/badge/Python-141519?style=flat-square&logo=python&logoColor=ef9b5e" />
+  <img src="https://img.shields.io/badge/FastAPI-141519?style=flat-square&logo=fastapi&logoColor=ef9b5e" />
+  <img src="https://img.shields.io/badge/Django-141519?style=flat-square&logo=django&logoColor=ef9b5e" />
+  <img src="https://img.shields.io/badge/DRF-141519?style=flat-square&logo=django&logoColor=ef9b5e" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-141519?style=flat-square&logo=sqlalchemy&logoColor=ef9b5e" />
+  <img src="https://img.shields.io/badge/PHP-141519?style=flat-square&logo=php&logoColor=ef9b5e" />
 </p>
 
 <p>
   <sub><b>Frontend</b></sub><br />
-  <img src="https://img.shields.io/badge/TypeScript-141519?style=flat-square&logo=typescript&logoColor=f4f2ed" />
-  <img src="https://img.shields.io/badge/React-141519?style=flat-square&logo=react&logoColor=f4f2ed" />
-  <img src="https://img.shields.io/badge/Next.js-141519?style=flat-square&logo=nextdotjs&logoColor=f4f2ed" />
-  <img src="https://img.shields.io/badge/Astro-141519?style=flat-square&logo=astro&logoColor=f4f2ed" />
-  <img src="https://img.shields.io/badge/Tailwind-141519?style=flat-square&logo=tailwindcss&logoColor=f4f2ed" />
+  <img src="https://img.shields.io/badge/TypeScript-141519?style=flat-square&logo=typescript&logoColor=ef9b5e" />
+  <img src="https://img.shields.io/badge/React-141519?style=flat-square&logo=react&logoColor=ef9b5e" />
+  <img src="https://img.shields.io/badge/Next.js-141519?style=flat-square&logo=nextdotjs&logoColor=ef9b5e" />
+  <img src="https://img.shields.io/badge/Astro-141519?style=flat-square&logo=astro&logoColor=ef9b5e" />
+  <img src="https://img.shields.io/badge/Tailwind-141519?style=flat-square&logo=tailwindcss&logoColor=ef9b5e" />
 </p>
 
 <p>
   <sub><b>Data &amp; AI</b></sub><br />
-  <img src="https://img.shields.io/badge/PostgreSQL-141519?style=flat-square&logo=postgresql&logoColor=f4f2ed" />
-  <img src="https://img.shields.io/badge/Redis-141519?style=flat-square&logo=redis&logoColor=f4f2ed" />
-  <img src="https://img.shields.io/badge/Claude-141519?style=flat-square&logo=anthropic&logoColor=f4f2ed" />
-  <img src="https://img.shields.io/badge/OpenAI-141519?style=flat-square&logo=openai&logoColor=f4f2ed" />
+  <img src="https://img.shields.io/badge/PostgreSQL-141519?style=flat-square&logo=postgresql&logoColor=ef9b5e" />
+  <img src="https://img.shields.io/badge/Redis-141519?style=flat-square&logo=redis&logoColor=ef9b5e" />
+  <img src="https://img.shields.io/badge/Claude-141519?style=flat-square&logo=anthropic&logoColor=ef9b5e" />
+  <img src="https://img.shields.io/badge/OpenAI-141519?style=flat-square&logo=openai&logoColor=ef9b5e" />
 </p>
 
 <p>
   <sub><b>DevOps</b></sub><br />
-  <img src="https://img.shields.io/badge/Docker-141519?style=flat-square&logo=docker&logoColor=f4f2ed" />
-  <img src="https://img.shields.io/badge/Cloudflare-141519?style=flat-square&logo=cloudflare&logoColor=f4f2ed" />
-  <img src="https://img.shields.io/badge/Vercel-141519?style=flat-square&logo=vercel&logoColor=f4f2ed" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-141519?style=flat-square&logo=githubactions&logoColor=f4f2ed" />
-  <img src="https://img.shields.io/badge/Linux-141519?style=flat-square&logo=linux&logoColor=f4f2ed" />
+  <img src="https://img.shields.io/badge/Docker-141519?style=flat-square&logo=docker&logoColor=ef9b5e" />
+  <img src="https://img.shields.io/badge/Cloudflare-141519?style=flat-square&logo=cloudflare&logoColor=ef9b5e" />
+  <img src="https://img.shields.io/badge/Vercel-141519?style=flat-square&logo=vercel&logoColor=ef9b5e" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-141519?style=flat-square&logo=githubactions&logoColor=ef9b5e" />
+  <img src="https://img.shields.io/badge/Linux-141519?style=flat-square&logo=linux&logoColor=ef9b5e" />
 </p>
 
 <sub>Also: C# / Unity (multiplayer) · Telegram &amp; Discord bots · Electron · Bun · Figma</sub>
