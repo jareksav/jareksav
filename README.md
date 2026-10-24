@@ -31,22 +31,3 @@
     <td width="33%" align="center"><b>Performance &amp; SEO</b><br /><sub>Lighthouse-grade speed and search optimisation that shows up in real metrics.</sub></td>
   </tr>
 </table>
-
----
-
-### GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jareksav&show_icons=true&hide_border=true&bg_color=0e0f11&title_color=d98b6f&icon_color=b9674a&text_color=cbc7bf" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jareksav&layout=compact&hide_border=true&bg_color=0e0f11&title_color=d98b6f&text_color=cbc7bf" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jareksav&hide_border=true&background=0e0f11&stroke=1d1f24&ring=b9674a&fire=d98b6f&currStreakNum=f4f2ed&sideNums=cbc7bf&currStreakLabel=b9674a&sideLabels=8c8a85&dates=5b5955" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jareksav&bg_color=0e0f11&color=f4f2ed&line=b9674a&point=d98b6f&area=true&area_color=141519&hide_border=true" width="100%" />
-</p>
-
-<p align="center"><sub>· · ·</sub></p>
