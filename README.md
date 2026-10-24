@@ -34,16 +34,6 @@
 
 ---
 
-### Stack
-
-<p align="center">
-  <img src="./assets/stack.png" alt="Stack: Python, FastAPI, Django, DRF, SQLAlchemy, PHP, TypeScript, React, Next.js, Astro, Tailwind, PostgreSQL, Redis, Claude, OpenAI, Docker, Cloudflare, Vercel, GitHub Actions, Linux" width="100%" />
-</p>
-
-<sub>Also: C# / Unity (multiplayer) · Telegram &amp; Discord bots · Electron · Bun · Figma</sub>
-
----
-
 ### GitHub
 
 <p align="center">
