@@ -21,13 +21,3 @@
 <p align="center"><sub>Full-stack engineer in Gdansk. I design, build and ship production web apps and AI-powered tools - end to end.</sub></p>
 
 ---
-
-### What I do
-
-<table>
-  <tr>
-    <td width="33%" align="center"><b>Backend &amp; AI</b><br /><sub>REST APIs, async services, auth, databases and AI pipelines - built to run in production.</sub></td>
-    <td width="33%" align="center"><b>Frontend</b><br /><sub>Fast, responsive interfaces - from design handoff to a shipped product.</sub></td>
-    <td width="33%" align="center"><b>Performance &amp; SEO</b><br /><sub>Lighthouse-grade speed and search optimisation that shows up in real metrics.</sub></td>
-  </tr>
-</table>
