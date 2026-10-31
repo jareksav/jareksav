@@ -16,8 +16,4 @@
   <img src="https://komarev.com/ghpvc/?username=jareksav&style=flat-square&color=b9674a&label=views" alt="views" />
 </p>
 
-<br />
 
-<p align="center"><sub>Full-stack engineer in Gdansk. I design, build and ship production web apps and AI-powered tools - end to end.</sub></p>
-
----
